@@ -1,5 +1,4 @@
-# Image-Compression-Papers-and-Code
-## A summary of image compression papers & code
+# A summary of image compression papers & code
 :heavy_check_mark: [Variable Rate Image Compression with Recurrent Neural Networks][[paper]](https://arxiv.org/abs/1511.06085)[code]
 
 :heavy_check_mark: [Full Resolution Image Compression with Recurrent Neural Networks][[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Toderici_Full_Resolution_Image_CVPR_2017_paper.pdf)[[code]](https://github.com/tensorflow/models/tree/master/research/compression)
