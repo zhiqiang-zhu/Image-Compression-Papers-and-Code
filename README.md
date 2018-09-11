@@ -19,3 +19,5 @@ Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr
 :heavy_check_mark: [Learning Convolutional Networks for Content-weighted Image Compression][[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Learning_Convolutional_Networks_CVPR_2018_paper.pdf)[[code]](https://github.com/limuhit/ImageCompression)
 
 :heavy_check_mark: [End-to-end Optimized Image Compression][[paper]](https://arxiv.org/abs/1611.01704)[[code]](https://github.com/tensorflow/compression)
+
+:heavy_check_mark: [Towards Conceptual Compression][[paper]](http://papers.nips.cc/paper/6542-towards-conceptual-compression.pdf)[[code]](https://github.com/musyoku/convolutional-draw)
