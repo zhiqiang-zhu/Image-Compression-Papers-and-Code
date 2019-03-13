@@ -6,7 +6,7 @@
 :heavy_check_mark: [Improved Lossy Image Compression with Priming and Spatially Adaptive Bit
 Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1904.pdf)[code]
 
-:heavy_check_mark: [Lossy Image Compression with Compressive Autoencoders][[paper]](https://arxiv.org/abs/1703.00395)[[code]](https://github.com/alexandru-dinu/cae)
+:heavy_check_mark: [Lossy Image Compression with Compressive Autoencoders][[paper]](https://arxiv.org/abs/1703.00395)[[code_version1]](https://github.com/zhiqiang-zhu/cae)[[code_version2]](https://github.com/alexandru-dinu/cae)
 
 :heavy_check_mark: [Real-Time Adaptive Image Compression][[paper]](https://arxiv.org/abs/1705.05823)[code]
 
@@ -21,3 +21,17 @@ Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr
 :heavy_check_mark: [End-to-end Optimized Image Compression][[paper]](https://arxiv.org/abs/1611.01704)[[code]](https://github.com/tensorflow/compression)
 
 :heavy_check_mark: [Towards Conceptual Compression][[paper]](http://papers.nips.cc/paper/6542-towards-conceptual-compression.pdf)[[code]](https://github.com/musyoku/convolutional-draw)
+
+
+# Image super-resolution
+:heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs][[paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
+
+:heavy_check_mark: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network][[paper]](https://arxiv.org/abs/1609.04802)[[code_PyTorch]](https://github.com/goldhuang/SRGAN-PyTorch)[[code_TF]](https://github.com/brade31919/SRGAN-tensorflow)
+
+:heavy_check_mark: [][[paper]]()[[code]]()
+
+:heavy_check_mark: [][[paper]]()[[code]]()
+
+:heavy_check_mark: [][[paper]]()[[code]]()
+
+:heavy_check_mark: [][[paper]]()[[code]]()
