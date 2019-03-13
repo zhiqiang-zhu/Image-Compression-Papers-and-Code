@@ -28,9 +28,10 @@ Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr
 
 :heavy_check_mark: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network][[paper]](https://arxiv.org/abs/1609.04802)[[code_PyTorch]](https://github.com/goldhuang/SRGAN-PyTorch)[[code_TF]](https://github.com/brade31919/SRGAN-tensorflow)
 
-:heavy_check_mark: [][[paper]]()[[code]]()
+:heavy_check_mark: [Convolutional Sparse Coding for Image Super-resolution][[paper]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CSC_SR.pdf)[[code]](http://www4.comp.polyu.edu.hk/~cslzhang/papers.htm)
 
-:heavy_check_mark: [][[paper]]()[[code]]()
+:heavy_check_mark: [ESRGAN: Enhanced Super-Resolution
+Generative Adversarial Networks][[paper]](https://arxiv.org/pdf/1809.00219v2.pdf)[[code]](https://github.com/xinntao/ESRGAN)
 
 :heavy_check_mark: [][[paper]]()[[code]]()
 
