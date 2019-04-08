@@ -22,6 +22,8 @@ Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr
 
 :heavy_check_mark: [Towards Conceptual Compression][[paper]](http://papers.nips.cc/paper/6542-towards-conceptual-compression.pdf)[[code]](https://github.com/musyoku/convolutional-draw)
 
+:heavy_check_mark: [Guetzli: Perceptually Guided JPEG Encode][[paper]](https://arxiv.org/pdf/1703.04421.pdf)[[code]](https://github.com/zhiqiang-zhu/guetzli)
+
 
 # Image super-resolution
 :heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs][[paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
