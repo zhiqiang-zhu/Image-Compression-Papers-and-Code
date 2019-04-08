@@ -24,6 +24,9 @@ Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr
 
 :heavy_check_mark: [Guetzli: Perceptually Guided JPEG Encode][[paper]](https://arxiv.org/pdf/1703.04421.pdf)[[code]](https://github.com/zhiqiang-zhu/guetzli)
 
+:heavy_check_mark: [Soft-to-Hard Vector Quantization for End-to-End
+Learning Compressible Representations][[paper]](http://papers.nips.cc/paper/6714-soft-to-hard-vector-quantization-for-end-to-end-learning-compressible-representations.pdf)[code]
+
 
 # Image super-resolution
 :heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs][[paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
