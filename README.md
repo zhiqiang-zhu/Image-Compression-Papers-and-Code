@@ -38,6 +38,8 @@ Learning Compressible Representations][[paper]](http://papers.nips.cc/paper/6714
 
 :heavy_check_mark: [Variational image compression with a scale hyperprior][[paper]][code]
 
+:heavy_check_mark: [DSSLIC: Deep Semantic Segmentation-based Layered Image Compression][[paper]](https://arxiv.org/pdf/1806.03348.pdf)[[code]](https://github.com/makbari7/DSSLIC)
+
 
 # Image super-resolution
 :heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs][[paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
