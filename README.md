@@ -29,6 +29,10 @@ Learning Compressible Representations][[paper]](http://papers.nips.cc/paper/6714
 
 :heavy_check_mark: [An End-to-End Compression Framework Based on Convolutional Neural Networks][[paper]](https://ieeexplore.ieee.org/document/7923746)[code](https://github.com/compression-framework/compression_framwork_for_tesing)
 
+:heavy_check_mark: [CAE-ADMM Implicit Bitrate Optimization via ADMM-based Pruning in Compressive Autoencoders
+][[paper]](https://arxiv.org/abs/1901.07196)[code](https://github.com/JasonZHM/CAE-ADMM)
+
+
 
 
 # Image super-resolution
