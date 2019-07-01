@@ -27,12 +27,16 @@ Rates for Recurrent Networks][[paper]](http://openaccess.thecvf.com/content_cvpr
 :heavy_check_mark: [Soft-to-Hard Vector Quantization for End-to-End
 Learning Compressible Representations][[paper]](http://papers.nips.cc/paper/6714-soft-to-hard-vector-quantization-for-end-to-end-learning-compressible-representations.pdf)[code]
 
-:heavy_check_mark: [An End-to-End Compression Framework Based on Convolutional Neural Networks][[paper]](https://ieeexplore.ieee.org/document/7923746)[code](https://github.com/compression-framework/compression_framwork_for_tesing)
+:heavy_check_mark: [An End-to-End Compression Framework Based on Convolutional Neural Networks][[paper]](https://ieeexplore.ieee.org/document/7923746)[[code]](https://github.com/compression-framework/compression_framwork_for_tesing)
 
 :heavy_check_mark: [CAE-ADMM Implicit Bitrate Optimization via ADMM-based Pruning in Compressive Autoencoders
-][[paper]](https://arxiv.org/abs/1901.07196)[code](https://github.com/JasonZHM/CAE-ADMM)
+][[paper]](https://arxiv.org/abs/1901.07196)[[code]](https://github.com/JasonZHM/CAE-ADMM)
 
+:heavy_check_mark: [Learned Image Compression with Soft Bit-based Rate-Distortion Optimization][[paper]]()[[code]]()
 
+:heavy_check_mark: [Extreme Image Compression via Multiscale Autoencoders With Generative Adversarial Optimization][[paper]]()[[code]]()
+
+:heavy_check_mark: [Variational image compression with a scale hyperprior][[paper]]()[[code]]()
 
 
 # Image super-resolution
